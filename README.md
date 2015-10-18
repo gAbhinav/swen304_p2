@@ -29,11 +29,11 @@ The database transaction application has the following components:
 A dump of the schema and data for the database, and the two java files are in the Assignment web page. You will need to complete the LibraryModel.java program, but you should not need to modify LibraryUI.java at all.
 
 ## How to running it
-> javac LibraryUI.java
+$ javac LibraryUI.java
 
 and run using
 
-> java LibraryUI
+$ java LibraryUI
 
 ## What should you do
 1. Load your database from the file Project2_15.data.
